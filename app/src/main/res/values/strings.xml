@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cyklic Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="increment">Increment</string>
+    <string name="count_label">Count:</string>
+    <string name="decrement">Decrement</string>
+</resources>
