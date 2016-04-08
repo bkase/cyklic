@@ -76,14 +76,14 @@ Note: christina
 
 !!!
 
-![coke-mentos](/img/coke-mentos-tiny-1.jpg)
+![coke-mentos](img/coke-mentos-tiny-1.jpg)
 
 Note: christina
 
 !!!
 
 ## Luckily, we are not alone
-![et](/img/et.jpg)
+![et](img/et.jpg)
 
 Note: bkase -- don't worry
 
@@ -124,10 +124,10 @@ Note: bkase
 
 !!!
 
-![cycle.js](/img/cycle.js.png)
-![react](/img/react.png)
-![flux](/img/flux.png)
-![redux](/img/redux.png)
+![cycle.js](img/cycle.js.png)
+![react](img/react.png)
+![flux](img/flux.png)
+![redux](img/redux.png)
 
 Note: christina
 
@@ -135,7 +135,7 @@ Note: christina
 
 ## Flux
 
-![flux-diagram](/img/flux-diagram.png)
+![flux-diagram](img/flux-diagram.png)
 
 Note: christina
 
@@ -170,7 +170,7 @@ Note: christina -- Reducers!
 
 ## Cycle.js
 
-![cycle-circuit](/img/cycle-circuit-small-1.png)
+![cycle-circuit](img/cycle-circuit-small-1.png)
 
 Note: bkase -- Your application logic is just a dataflow graph
 
@@ -189,7 +189,7 @@ Note: bkase
 
 ## Cycle.js
 
-![cycle-counter](/img/cycle-counter.png)
+![cycle-counter](img/cycle-counter.png)
 > from cycle.js.org
 
 Note: bkase
@@ -245,7 +245,7 @@ Note: bkase
 
 !!!
 
-![cyklic-counter](/img/cyklic-counter-small-1.png)
+![cyklic-counter](img/cyklic-counter-small-1.png)
 
 Note: bkase
 
@@ -307,7 +307,7 @@ Note: christina
 
 ## Aside: RxJava
 
-![map](/img/rx-map.png)
+![map](img/rx-map.png)
 > from RxMarbles
 
 Note: christina
@@ -316,7 +316,7 @@ Note: christina
 
 ## Aside: RxJava
 
-![merge](/img/rx-merge.png)
+![merge](img/rx-merge.png)
 > from RxMarbles
 
 Note: christina
@@ -338,11 +338,11 @@ Note: bkase -- there are many ways, we'll show you one of them
 ## Example
 
 <video width="200" controls>
-  <source src="/img/celltouches.mp4" type="video/mp4">
+  <source src="img/celltouches.mp4" type="video/mp4">
 </video>
 
 <video width="200" controls>
-  <source src="/img/scrolling.mp4" type="video/mp4">
+  <source src="img/scrolling.mp4" type="video/mp4">
 </video>
 
 Not just a counter
@@ -351,11 +351,11 @@ Note: bkase
 
 !!!
 
-![folder](/img/folder.png)
+![folder](img/folder.png)
 
 !!!
 
-![select-viewmodel-folder](/img/select-viewmodel-folder.png)
+![select-viewmodel-folder](img/select-viewmodel-folder.png)
 
 Note: christina
 
@@ -377,7 +377,7 @@ Note: christina
 
 !!!
 
-![select-viewintentions-folder](/img/select-viewintentions-folder.png)
+![select-viewintentions-folder](img/select-viewintentions-folder.png)
 
 Note: bkase
 
@@ -398,7 +398,7 @@ Note: bkase -- photos = a snapshot of the current state of a photo; photos comes
 
 !!!
 
-![select-model-folder](/img/select-model-folder.png)
+![select-model-folder](img/select-model-folder.png)
 
 Note: christina
 
@@ -473,7 +473,7 @@ Note: bkase
 
 !!!
 
-![select-viewmodel-folder](/img/select-viewmodel-folder.png)
+![select-viewmodel-folder](img/select-viewmodel-folder.png)
 
 Note: christina
 
@@ -504,7 +504,7 @@ Note: christina -- cover State->State collapse
 
 !!!
 
-![select-component-folder](/img/select-component-folder.png)
+![select-component-folder](img/select-component-folder.png)
 
 Note: bkase
 
@@ -566,7 +566,7 @@ Note: christina
 
 !!!
 
-![folder](/img/folder.png)
+![folder](img/folder.png)
 
 Note: christina
 
@@ -601,7 +601,7 @@ Note: bkase
 
 ## Under the hood
 
-![scan](/img/rx-scan.png)
+![scan](img/rx-scan.png)
 
 Note: bkase
 
@@ -616,7 +616,7 @@ modelStream.scan(initialState,
   })
 ```
 
-![tweet](/img/tweet.png) <!-- .element: class="fragment" data-fragment-index="1" -->
+![tweet](img/tweet.png) <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note: bkase
 
@@ -739,7 +739,7 @@ Note: christina
 
 ## Results: The Conclusion
 
-![tom-cruise](/img/tom-cruise.jpg)
+![tom-cruise](img/tom-cruise.jpg)
 
 Note: christina
 
@@ -761,7 +761,7 @@ Note: christina
 
 ## Cyklic
 
-[![github](/img/github.png)](https://github.com/bkase/cyklic)
+[![github](img/github.png)](https://github.com/bkase/cyklic)
 
 Github: [bkase/cyklic](https://github.com/bkase/cyklic)
 
