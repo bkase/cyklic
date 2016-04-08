@@ -6,5 +6,5 @@ written in Kotlin (get it: the `k`)
 
 ## Slides
 
-[Deck from Realm Android Meetup @ 3/31](https://bkase.github.io/cyklic/realm)
+[Deck from Realm Android Meetup @ 3/31](https://bkase.github.io/cyklic/realm/)
 
