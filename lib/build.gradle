@@ -1,5 +1,5 @@
 buildscript {
-    ext.kotlin_version = '1.0.1-1'
+    ext.kotlin_version = '1.1.1'
     repositories {
         mavenCentral()
     }
@@ -13,12 +13,12 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.3"
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 23
+        targetSdkVersion 25
         versionCode 1
         versionName "0.1.0"
     }
@@ -36,7 +36,7 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'io.reactivex:rxjava:1.1.2'
     compile 'io.reactivex:rxandroid:1.1.0'
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
